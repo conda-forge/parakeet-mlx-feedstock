@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.5.2"
+  version: "0.5.3"
 
 package:
   name: parakeet-mlx
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/parakeet-mlx/parakeet_mlx-${{ version }}.tar.gz
-  sha256: 6c6ba3c4d42ebf015dde515e5a83858a516add3f5b2c6bd4a7be5c4ba8bd4d02
+  sha256: b06b7345d68127b581ee0ba07691654e60d44004c401c9acfefcefbb4de50ea7
 
 build:
   number: 0
